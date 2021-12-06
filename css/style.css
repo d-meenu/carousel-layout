@@ -108,7 +108,7 @@ height:34px;
   #carouselExampleIndicators{
 position: absolute;
 top:12vh;
-margin-left:1vw;
+margin:0px;
     padding:0px;
 max-width: 100%;
   }
