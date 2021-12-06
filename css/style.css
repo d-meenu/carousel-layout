@@ -354,7 +354,7 @@ vertical-align: middle;
       }
       #aboutus{
         position:absolute;
-    top: 120vh;
+    top: 115vh;
         flex-direction: column;
         font-size: 3vw;
       }
@@ -365,7 +365,7 @@ vertical-align: middle;
     }
       #ourdep{
         position:absolute;
-    top: 170vh;
+    top: 178vh;
         flex-direction: column;
         font-size: 3vw;
       }
@@ -376,7 +376,7 @@ vertical-align: middle;
     }
       #ourtele{
         position:absolute;
-    top: 230vh;
+    top: 225vh;
         flex-direction: column;
         font-size: 3vw;
         
