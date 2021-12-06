@@ -479,7 +479,7 @@ vertical-align: middle;
      color:rgb(8, 31, 62);
      justify-content:space-around;
 position:sticky;
-top:0px;
+top:12px;
 flex-direction: row;
 text-align: center;
 height:45px;
