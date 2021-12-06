@@ -212,7 +212,7 @@ height:34px;
       flex-direction: row;
       text-align: left;
       position:absolute;
-      top: 185vh;
+      top: 170vh;
       background-color: rgb(236,238,239);
       max-width: 100% !important;
     }
@@ -239,7 +239,7 @@ height:34px;
         flex-direction: row;
         text-align: left;
         position:absolute;
-        top: 237vh;
+        top: 225vh;
         background-color: rgb(236,238,239);
         max-width: 100% !important;
       }
@@ -265,7 +265,7 @@ footer{
         flex-direction: row;
         text-align: left;
         position:absolute;
-        top: 290vh;
+        top: 278vh;
         background-color: rgb(236,238,239);
         
 }
