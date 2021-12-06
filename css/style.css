@@ -108,9 +108,9 @@ height:34px;
   #carouselExampleIndicators{
 position: absolute;
 top:12vh;
-margin:0px;
+margin-left:1vw;
     padding:0px;
-max-width: 98%;
+max-width: 100%;
   }
   .carousel-control-prev{
       position: absolute;
@@ -212,7 +212,7 @@ height:34px;
       flex-direction: row;
       text-align: left;
       position:absolute;
-      top: 170vh;
+      top: 185vh;
       background-color: rgb(236,238,239);
       max-width: 100% !important;
     }
@@ -239,7 +239,7 @@ height:34px;
         flex-direction: row;
         text-align: left;
         position:absolute;
-        top: 225vh;
+        top: 237vh;
         background-color: rgb(236,238,239);
         max-width: 100% !important;
       }
@@ -265,7 +265,7 @@ footer{
         flex-direction: row;
         text-align: left;
         position:absolute;
-        top: 278vh;
+        top: 290vh;
         background-color: rgb(236,238,239);
         
 }
@@ -354,7 +354,7 @@ vertical-align: middle;
       }
       #aboutus{
         position:absolute;
-    top: 107vh;
+    top: 109vh;
         flex-direction: column;
         font-size: 3vw;
       }
@@ -365,7 +365,7 @@ vertical-align: middle;
     }
       #ourdep{
         position:absolute;
-    top: 176vh;
+    top: 162vh;
         flex-direction: column;
         font-size: 3vw;
       }
@@ -376,7 +376,7 @@ vertical-align: middle;
     }
       #ourtele{
         position:absolute;
-    top: 222vh;
+    top: 215vh;
         flex-direction: column;
         font-size: 3vw;
         
@@ -393,7 +393,7 @@ vertical-align: middle;
             flex-direction: column;
             
             position:absolute;
-            top: 248vh;
+            top: 270vh;
     }
     #myBtn{
       position:absolute;
@@ -407,3 +407,4 @@ vertical-align: middle;
       display:none;
     }
   }
+  
